@@ -1,0 +1,1 @@
+alloc,,robots,,perm,,attr  (maxSucc value=prob. of failing times 100)

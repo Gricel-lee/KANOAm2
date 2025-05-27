@@ -1,0 +1,9 @@
+alloc,,robots,,perm,,reason
+1,,[r2, r3, r4, r5, r1],,[1, 10, 1, 2, 19],,noPlanSynthesised
+1,,[r2, r3, r4, r5, r1],,[3, 19, 2, 1, 93],,noPlanSynthesised
+2,,[r2, r4, r5, r1],,[16, 1, 2, 3405],,noPlanSynthesised
+2,,[r2, r4, r5, r1],,[36, 2, 1, 540],,noPlanSynthesised
+2,,[r2, r4, r5, r1],,[3, 2, 1, 2368],,noPlanSynthesised
+2,,[r2, r4, r5, r1],,[85, 2, 1, 317],,noPlanSynthesised
+2,,[r2, r4, r5, r1],,[110, 1, 2, 1993],,noPlanSynthesised
+2,,[r2, r4, r5, r1],,[4, 2, 1, 2871],,noPlanSynthesised
