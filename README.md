@@ -1,10 +1,6 @@
-# KANOAm2 (tasK specifications And heterogeNeous rObot teAms Multo-Model)
+# KANOAm2 
 
-Multi-robot task scheduling tool using a swries of specialised models.
-
-We provide a user-friendly DSL for the adoption of Kanoa. We use EclipseEMF Modeling Tools, project execution environment 'JavaSE-11'.
-
-
+KANOAm2 (tasK specifications And heterogeNeous rObot teAms, a Multoi-Model approach) is a tool-supported approach for the generation of task plans. We provide a user-friendly DSL for the adoption of KANOAm2. We use EclipseEMF Modeling Tools, project execution environment 'JavaSE-11'.
 
 
 ## 1 Xtext (DSL code) Set up in Eclipse
@@ -110,7 +106,7 @@ Note: Sometimes the project needs to be refreshed or cleaned to get the output f
 
 
 ## 2 Task Allcoation and Scheduling
-We tested Kanoa on Eclipse IDE Version: 2022-06 (4.24.0), project execution environment 'JavaSE-1.8' (JRE[17.0.2]).
+We tested Kanoam2 on Eclipse IDE Version: 2022-06 (4.24.0), project execution environment 'JavaSE-1.8' (JRE[17.0.2]).
 
 
 ***Task allocation code is provided in Resources>Source>2 TaskAllocatorScheduler***
